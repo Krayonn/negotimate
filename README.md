@@ -1,2 +1,2 @@
 # negotimate
-Your mate in negotiating trade deals
+Your mate in negotiating trade deals!
